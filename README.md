@@ -20,4 +20,4 @@ ARIMA model achieved a Mean Absolute Error (MAE) of $3,620 and Mean Squared Erro
 Exponential Smoothing model performed slightly better with a MAE of $3,480 and MSE of $23,890.
 Time Series Insights:
 
-# Time series analysis revealed strong seasonal patterns and significant autocorrelation in weekly sales data, indicating the potential effectiveness of seasonal models like SARIMA for future forecasting tasks.
+Time series analysis revealed strong seasonal patterns and significant autocorrelation in weekly sales data, indicating the potential effectiveness of seasonal models like SARIMA for future forecasting tasks.
